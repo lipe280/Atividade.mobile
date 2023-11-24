@@ -3,7 +3,7 @@
 
 
 <title>desenvolvimento  de sistemas</title>
-<linkrel="stylesheet"> href="style.css"
+<linkrel="stylesheet"> 
 <head>
 
   <body>
