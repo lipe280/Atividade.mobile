@@ -3,7 +3,7 @@
 
 
 <title>desenvolvimento  de sistemas</title>
-<linkrel="stylesheet"> href="style.css"</linkrel>
+<linkrel="stylesheet"> href="style.css"
 <head>
 
   <body>
@@ -19,8 +19,7 @@
 <title>atividade avaliativa</title>
   </head>
   <body> 
-<img scr="![image](https://github.com/lipe280/Atividade.mobile/assets/142243064/96ec3ee5-5f7c-473f-8c52-b45a88f29420)
-  .jpg"
+<img scr="![image](https://github.com/lipe280/Atividade.mobile/assets/142243064/58905308-958d-42df-9cb7-22787fc6a06b).jpg"
   alt="anfitrus de ordem paranormal">
   </body>
 </html>
