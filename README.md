@@ -21,6 +21,6 @@
   <body> 
 <img scr="![image](https://github.com/lipe280/Atividade.mobile/assets/142243064/96ec3ee5-5f7c-473f-8c52-b45a88f29420)
   .jpg"
-  alt="anfitrus de ordem paranormal ">
+  alt="anfitrus de ordem paranormal">
   </body>
 </html>
