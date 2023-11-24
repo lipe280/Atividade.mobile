@@ -18,7 +18,7 @@
 <title>atividade avaliativa</title>
   </head>
   <body> 
-<img scr="  https://images.app.goo.gl/dhJUdyjdFXhN5ZRG6.jpg"
+<img scr="https://images.app.goo.gl/dhJUdyjdFXhN5ZRG6.jpg"
   alt="anfitrus de ordem paranormal ">
   </body>
 </html># Atividade.mobile
