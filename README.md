@@ -3,7 +3,8 @@
 
 
 <title>desenvolvimento  de sistemas</title>
-
+<linkrel="stylesheet"> href="style.css"</linkrel>
+<head>
 
   <body>
     <h1>]colegio estadual Sertãozinho </h1>
@@ -18,7 +19,8 @@
 <title>atividade avaliativa</title>
   </head>
   <body> 
-<img scr="https://images.app.goo.gl/dhJUdyjdFXhN5ZRG6.jpg"
+<img scr="![image](https://github.com/lipe280/Atividade.mobile/assets/142243064/96ec3ee5-5f7c-473f-8c52-b45a88f29420)
+  .jpg"
   alt="anfitrus de ordem paranormal ">
   </body>
-</html># Atividade.mobile
+</html>
